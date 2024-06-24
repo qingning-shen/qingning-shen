@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a sophmore student learning computer science and engineering in the Chinese University of Hongkong, Shenzhen.
+I'm a sophmore student learning computer science and engineering in The Chinese University of Hong Kong, Shenzhen.
 - 🌱 I’m currently interested in LLMs and Robo
 - 🔭 Learn more on https://qingning-shen.github.io/aboutme/
 <!--
