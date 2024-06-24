@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm a sophmore student learning computer science and engineering in the Chinese University of Hongkong, Shenzhen.
+- 🌱 I’m currently interested in LLMs and Robo
+- 🔭 Learn more on https://qingning-shen.github.io/aboutme/
 <!--
 **qingning-shen/qingning-shen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
